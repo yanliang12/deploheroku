@@ -9,3 +9,5 @@ yanliang12/yan_flask_webpage:1.0.2
 ```
 
 http://localhost:5000/
+
+<img src="screencapture-localhost-5000-predict-2021-11-05-18_08_40.png" width="800">

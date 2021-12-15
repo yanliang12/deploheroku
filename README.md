@@ -8,4 +8,4 @@ docker run -it ^
 yanliang12/yan_flask_webpage:1.0.2
 ```
 
-http://localhost:5000/predict
+http://localhost:5000/
